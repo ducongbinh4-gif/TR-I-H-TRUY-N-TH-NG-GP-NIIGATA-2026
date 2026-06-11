@@ -17,7 +17,9 @@ function doPost(e) {
     data.soDienThoai || "",
     data.facebook || "",
     data.chiPhi || "5000円",
-    data.diChuyen || ""
+    data.diChuyen || "",
+    data.soluongnguoi || "",
+    data.nguoidaidien || ""
   ]);
 
   return ContentService.createTextOutput("OK");
