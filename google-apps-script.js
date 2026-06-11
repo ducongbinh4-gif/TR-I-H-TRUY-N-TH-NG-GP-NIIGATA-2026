@@ -43,7 +43,9 @@ function getSheet() {
       "Số điện thoại",
       "Facebook",
       "Chi phí",
-      "Xác nhận di chuyển"
+      "Xác nhận di chuyển",
+     "số lượng người tham gia",
+      "người đại diện"
     ]);
   }
 
